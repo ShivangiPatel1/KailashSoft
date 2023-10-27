@@ -54,6 +54,7 @@ const Navbar = () => {
                 <Logo>Kailash Software</Logo>
                 <Menu>
                     <MenuItem>Home</MenuItem>
+                    <MenuItem>Features</MenuItem>
                     <MenuItem>Services</MenuItem>
                     <MenuItem>Contacts</MenuItem>
                 </Menu>
